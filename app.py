@@ -1,7 +1,8 @@
 import streamlit as st
 
 st.set_page_config(
-    page_title="Streamlit playground"
+	page_title="Streamlit playground",
+	layout="wide"
 )
 
 st.title("Streamlit Playground")
