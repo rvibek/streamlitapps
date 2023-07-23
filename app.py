@@ -5,3 +5,5 @@ st.set_page_config(
 )
 
 st.title("Streamlit Playground")
+st.write('Use page link in the nav bar')
+
